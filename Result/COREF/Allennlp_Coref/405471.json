@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 3], [5, 5], [5, 6], [9, 9], [11, 11], [11, 14], [11, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1, -1], "document": ["six", "questions", "to", "ask", "during", "your", "review", "do", "n't", "blow", "off", "your", "annual", "performance", "review", "at", "work", "amy", "marie", "mcintyre"], "clusters": [[[5, 5], [11, 11]]]}

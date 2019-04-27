@@ -1,0 +1,1 @@
+{"top_spans": [[2, 4], [2, 8], [6, 6], [7, 8], [11, 11], [16, 16], [19, 19], [20, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1, -1], "document": ["adidas", "has", "a", "secret", "weapon", "to", "beat", "nike", "adidas", "is", "n't", "worried", "about", "ebbing", "demand", "for", "its", "classic", "models", "adidas", "nike"], "clusters": [[[7, 8], [16, 16]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 4], [5, 5], [5, 6], [11, 11], [15, 15], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 1], "document": ["21", "compliments", "you", "can", "give", "your", "mom", "a", "list", "of", "compliments", "we", "'d", "like", "to", "give", "our", "moms"], "clusters": [[[11, 11], [16, 16]]]}

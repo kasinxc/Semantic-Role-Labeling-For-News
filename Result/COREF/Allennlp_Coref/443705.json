@@ -1,0 +1,1 @@
+{"top_spans": [[3, 7], [9, 9], [13, 20], [16, 16], [17, 17], [17, 20], [19, 19], [19, 20]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1, -1, -1], "document": ["the", "problem", "with", "pheromone", "-", "infused", "soap", "experts", "say", "it", "probably", "does", "n't", "even", "matter", "if", "it", "works", "dr", "helen", "fisher"], "clusters": [[[9, 9], [16, 16]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [5, 5], [7, 7], [8, 8], [9, 9], [9, 10]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1], "document": ["the", "most", "stuf'ed", "oreo", "is", "coming", "soon", "we", "need", "our", "hands", "on", "these", "asap", "amy", "official", "oreo"], "clusters": [[[7, 7], [9, 9]]]}

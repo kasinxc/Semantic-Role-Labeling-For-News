@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [2, 2], [3, 3], [5, 5], [6, 6], [10, 11], [11, 11], [13, 13]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1, -1], "document": ["jimmy", "kimmel", "tricks", "people", "into", "saying", "they", "'ll", "vote", "for", "tv", "characters", "rose", "nylund", "or", "leslie", "knope", "arizona", "phoenix", "jimmy", "kimmel"], "clusters": [[[3, 3], [6, 6]]]}

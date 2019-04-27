@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [3, 3], [6, 6], [9, 13], [19, 20], [19, 21], [20, 20]], "predicted_antecedents": [-1, -1, 1, 2, -1, -1, -1, -1], "document": ["he", "was", "mad", "he", "was", "macabre", "he", "was", "amusing", "the", "times", "-", "picayune", "momus", "alexander", "morgus", "morgus", "new", "orleans", "sid", "noel", "wwl"], "clusters": [[[0, 0], [3, 3], [6, 6]]]}

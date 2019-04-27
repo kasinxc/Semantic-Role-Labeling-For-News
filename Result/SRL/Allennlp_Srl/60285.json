@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "becoming", "description": "[ARG1: another cool rainy day] [V: becoming] [ARG2: mostly sunny breezy and cool winds]", "tags": ["B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2"]}], "words": ["another", "cool", "rainy", "day", "becoming", "mostly", "sunny", "breezy", "and", "cool", "winds"]}

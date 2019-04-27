@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 4], [5, 6], [8, 8], [8, 9], [12, 12]], "predicted_antecedents": [-1, -1, -1, 0, -1, -1], "document": ["lovable", "monsters", "q", "what", "does", "the", "ghost", "call", "his", "true", "love", "a", "my", "ghoul", "-", "friend"], "clusters": [[[5, 6], [8, 8]]]}

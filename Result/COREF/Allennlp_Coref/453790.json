@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [5, 6], [6, 6], [8, 8], [8, 12], [11, 12], [16, 16], [19, 19]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1, -1], "document": ["these", "modern", "ads", "are", "even", "more", "sexist", "than", "their", "mad", "men", "era", "counterparts", "look", "how", "far", "we", "have", "n't", "come", "kate", "upton"], "clusters": [[[0, 2], [8, 8]]]}

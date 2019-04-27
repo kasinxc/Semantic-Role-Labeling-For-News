@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [1, 5], [3, 5], [7, 7], [8, 8], [9, 9], [18, 18], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1, -1], "document": ["ask", "your", "partner", "these", "3", "questions", "before", "getting", "engaged", "they", "'ll", "help", "rid", "you", "of", "any", "unrealistic", "expectations", "chantal", "heide"], "clusters": [[[3, 5], [9, 9]]]}

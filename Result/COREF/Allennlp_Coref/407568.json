@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [4, 4], [12, 12], [14, 14], [16, 16], [17, 17], [17, 20], [18, 20]], "predicted_antecedents": [-1, -1, 0, -1, -1, -1, -1, -1], "document": ["so", "that", "'s", "why", "cashmere", "is", "so", "expensive", "and", "there", "a", "reason", "it", "so", "soft", "too", "pam", "haendle", "new", "york", "spilhaus"], "clusters": [[[4, 4], [12, 12]]]}

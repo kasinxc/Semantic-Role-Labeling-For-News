@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [6, 13], [9, 9], [10, 10], [12, 12], [15, 15], [18, 18], [19, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, 5, -1], "document": ["this", "500", "pair", "of", "boots", "was", "the", "best", "purchase", "i", "made", "in", "2015", "here", "why", "they", "'re", "worth", "it", "indy", "boots", "alden"], "clusters": [[[0, 4], [15, 15], [18, 18]]]}

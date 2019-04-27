@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [1, 1], [7, 7], [10, 11], [10, 18], [13, 13], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1], "document": ["the", "oneplus", "6", "does", "n't", "work", "on", "verizon", "or", "sprint", "bad", "news", "for", "verizon", "or", "sprint", "customers", "sprint", "oneplus"], "clusters": [[[7, 7], [13, 13]]]}

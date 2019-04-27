@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [3, 3], [6, 6], [9, 9], [11, 11], [12, 12], [14, 14], [20, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, 3, -1, -1], "document": ["scientists", "explain", "why", "kids", "do", "n't", "listen", "and", "how", "you", "can", "get", "them", "to", "dr", "deborah", "macnamara", "alyson", "schafer", "huffpost", "canada"], "clusters": [[[3, 3], [12, 12]]]}

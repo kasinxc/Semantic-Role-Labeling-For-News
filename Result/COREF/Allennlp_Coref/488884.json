@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [4, 4], [9, 9], [11, 11], [13, 13], [14, 15], [14, 17], [17, 17]], "predicted_antecedents": [-1, -1, -1, 0, -1, -1, -1, -1], "document": ["verizon", "outage", "here", "what", "you", "need", "to", "do", "if", "you", "think", "you", "'re", "experiencing", "an", "outage", "with", "verizon", "here", "what", "to", "do"], "clusters": [[[9, 9], [11, 11]]]}

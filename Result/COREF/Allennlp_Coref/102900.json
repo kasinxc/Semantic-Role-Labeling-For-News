@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 5], [6, 6], [14, 14], [14, 17], [15, 15], [15, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1], "document": ["puts", "up", "another", "double", "-", "double", "puts", "up", "another", "double", "-", "double", "atlanta", "kevin", "love", "cleveland", "cavaliers", "cavaliers"], "clusters": []}

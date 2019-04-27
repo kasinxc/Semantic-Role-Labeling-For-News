@@ -1,1 +1,1 @@
-{"top_spans": [[0, 2], [3, 3], [5, 10], [9, 10]], "predicted_antecedents": [-1, -1, -1, -1], "document": ["President", "Donald", "Trump", "welcomed", "home", "three", "Americans", "freed", "by", "North", "Korea", "..."], "clusters": []}
+{"top_spans": [[0, 1], [0, 2], [0, 7], [9, 9], [10, 10], [12, 12]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1], "document": ["19", "cozy", "throws", "and", "pillows", "just", "in", "time", "for", "fall", "it", "snuggle", "time", "y'", "all"], "clusters": []}

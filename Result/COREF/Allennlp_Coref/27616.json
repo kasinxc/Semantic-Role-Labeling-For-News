@@ -1,0 +1,1 @@
+{"top_spans": [[3, 3], [6, 6], [6, 10], [12, 13], [14, 14], [15, 15]], "predicted_antecedents": [-1, 0, -1, -1, 2, -1], "document": ["35", "thank", "-", "you", "messages", "for", "your", "true", "best", "friends", "friends", "are", "the", "family", "you", "choose"], "clusters": [[[3, 3], [6, 6], [14, 14]]]}

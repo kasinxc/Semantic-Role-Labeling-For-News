@@ -1,1 +1,1 @@
-{"top_spans": [[0, 2], [4, 9], [4, 10], [4, 13], [8, 9], [8, 10]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1], "document": ["The", "two", "hosts", "have", "a", "similar", "opinion", "of", "Donald", "Trump", "(", "no", "surprise", ")", "."], "clusters": []}
+{"top_spans": [[0, 3], [0, 4], [0, 7], [8, 8], [9, 9], [14, 14]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1], "document": ["5-year", "-", "old", "girl", "recovering", "after", "van", "accident", "left", "her", "in", "coma", "coma", "leah", "leah", "dinchak"], "clusters": [[[0, 3], [9, 9]]]}

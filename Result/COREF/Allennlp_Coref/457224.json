@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [3, 3], [6, 6], [7, 7], [9, 14], [15, 15], [16, 16]], "predicted_antecedents": [-1, -1, 0, -1, -1, -1, -1], "document": ["this", "is", "why", "millennials", "favor", "socialism", "they", "realized", "that", "the", "trickle", "-", "down", "economics", "theory", "did", "n\u2019t", "work"], "clusters": [[[3, 3], [6, 6]]]}

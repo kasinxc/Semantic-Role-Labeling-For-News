@@ -1,0 +1,1 @@
+{"top_spans": [[1, 2], [5, 5], [9, 9], [12, 12], [13, 13], [14, 14], [15, 15], [20, 20]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, 5, -1], "document": ["why", "kristen", "bell", "is", "so", "open", "and", "1", "thing", "she", "'ll", "never", "share", "everybody", "crazy", "it", "not", "a", "competition", "kristen", "bell"], "clusters": [[[1, 2], [9, 9], [15, 15]]]}

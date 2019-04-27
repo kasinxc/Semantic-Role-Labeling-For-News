@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [3, 12], [6, 6], [6, 7], [6, 8], [15, 15], [16, 16], [19, 21], [22, 22]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 3, -1, -1], "document": ["30", "ways", "to", "cancer", "-", "proof", "your", "life", "30", "tricks", "tips", "and", "tactics", "to", "help", "keep", "you", "out", "of", "the", "big", "c", "reach"], "clusters": [[[6, 6], [16, 16]]]}

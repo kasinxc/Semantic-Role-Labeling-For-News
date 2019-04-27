@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "tbi", "description": "[V: tbi] [ARG1: tool to track sex offenders]", "tags": ["B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1"]}, {"verb": "track", "description": "tbi tool to [V: track] [ARG1: sex offenders]", "tags": ["O", "O", "O", "B-V", "B-ARG1", "I-ARG1"]}], "words": ["tbi", "tool", "to", "track", "sex", "offenders"]}

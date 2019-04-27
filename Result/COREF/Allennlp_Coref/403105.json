@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [3, 3], [4, 4], [5, 5], [5, 8], [8, 8], [13, 13]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1, -1], "document": ["shortage", "has", "wheaties", "fans", "missing", "their", "breakfast", "of", "champions", "going", "through", "wheaties", "withdrawal", "you", "'re", "not", "alone", "wheaties", "breakfast"], "clusters": [[[3, 3], [5, 5]]]}

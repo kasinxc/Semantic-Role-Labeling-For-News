@@ -1,0 +1,1 @@
+{"top_spans": [[4, 4], [5, 5], [5, 9], [5, 10], [5, 14], [7, 9], [10, 10], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 3], "document": ["the", "casseroles", "that", "will", "save", "anyone", "on", "the", "keto", "diet", "these", "might", "be", "low", "carb", "but", "they", "'re", "fully", "delicious"], "clusters": [[[5, 10], [16, 16]]]}

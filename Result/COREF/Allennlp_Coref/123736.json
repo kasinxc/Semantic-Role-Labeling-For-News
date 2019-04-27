@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 4], [1, 9], [6, 9], [6, 14], [10, 10], [11, 14]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 4], "document": ["creamy", "twice", "-", "baked", "potatoes", "with", "a", "yummy", "cream", "cheese", "filling", "these", "rich", "delicious", "potatoes", "are", "sure", "winners"], "clusters": [[[1, 4], [11, 14]]]}

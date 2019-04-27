@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "recognize", "description": "iconic home of [V: recognize] [ARG1: this house] madea simmons the house tyler perry", "tags": ["O", "O", "O", "B-V", "B-ARG1", "I-ARG1", "O", "O", "O", "O", "O", "O"]}], "words": ["iconic", "home", "of", "recognize", "this", "house", "madea", "simmons", "the", "house", "tyler", "perry"]}

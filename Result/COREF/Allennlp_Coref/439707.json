@@ -1,0 +1,1 @@
+{"top_spans": [[0, 6], [4, 4], [5, 6], [9, 9], [12, 12], [16, 16], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, 2, -1, -1], "document": ["the", "hair", "color", "men", "find", "most", "attractive", "may", "surprise", "you", "or", "maybe", "it", "wo", "n't", "twitter", "good", "housekeeping"], "clusters": [[[4, 4], [12, 12]]]}

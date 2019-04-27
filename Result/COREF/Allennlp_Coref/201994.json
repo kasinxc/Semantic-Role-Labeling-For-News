@@ -1,0 +1,1 @@
+{"top_spans": [[4, 4], [4, 5], [6, 6], [10, 10], [12, 12]], "predicted_antecedents": [-1, -1, -1, 1, -1], "document": ["here", "how", "to", "make", "google", "beatbox", "we", "could", "n't", "believe", "it", "google", "geekosystem"], "clusters": [[[4, 5], [10, 10]]]}

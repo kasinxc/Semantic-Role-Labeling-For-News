@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [3, 3], [4, 4], [6, 6], [15, 19], [16, 18], [16, 19], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, -1], "document": ["bart", "scott", "expects", "eagles", "trading", "for", "le'veon", "bell", "pittsburgh", "steelers", "leveon", "bell", "bell", "philadelphia", "eagles", "eagles", "bart", "scott", "le'veon", "bell"], "clusters": []}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [0, 8], [6, 6], [8, 8], [12, 12], [14, 14], [16, 17], [20, 21]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 2, -1], "document": ["the", "must", "-", "see", "halloween", "themed", "bars", "in", "nyc", "you", "have", "to", "go", "to", "shelley", "and", "the", "city", "takes", "on", "halloween", "halloween"], "clusters": [[[8, 8], [16, 17]]]}

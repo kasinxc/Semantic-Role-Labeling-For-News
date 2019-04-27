@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [4, 4], [6, 7], [6, 9], [11, 11], [12, 12], [13, 13], [15, 15]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 5, -1], "document": ["the", "nintendo", "switch", "now", "works", "with", "these", "20", "wireless", "usb", "headsets", "we", "tested", "them", "so", "you", "do", "n't", "have", "to", "wireless"], "clusters": [[[0, 2], [13, 13]]]}

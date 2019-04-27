@@ -187,6 +187,8 @@ def main(configurations):
     load_configurations(configurations)
     relations = get_relations_api(max_file_number)
 
+    show_all_arg0(relations)
+    
     print(UseStyle('Loaded ' + str(len(relations)) +' relations from file', fore='green'))
     relations = remove_invalid_relations(relations)
     tree_graph = tree(relations)

@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [1, 2], [2, 2], [3, 3], [8, 8], [9, 9], [10, 11], [13, 20]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1, -1], "document": ["how", "taco", "bell", "created", "the", "infamous", "doritos", "tacos", "it", "took", "two", "years", "kat", "garcia", "frito", "-", "lay", "doritos", "taco", "bell", "taco"], "clusters": [[[2, 2], [8, 8]]]}

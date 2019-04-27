@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "wins", "description": "[ARG0: slidell] [V: wins] [ARG1: big] [ARG2: over northshore 17 - 3 slidell]", "tags": ["B-ARG0", "B-V", "B-ARG1", "B-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2", "I-ARG2"]}], "words": ["slidell", "wins", "big", "over", "northshore", "17", "-", "3", "slidell"]}

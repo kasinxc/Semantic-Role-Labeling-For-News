@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [3, 3], [5, 9], [5, 10], [13, 13], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1], "document": ["what", "nick", "saban", "said", "after", "alabama", "-", "missouri", "nick", "saban", "postgame", "thoughts", "after", "missouri", "win", "nick", "saban"], "clusters": [[[2, 2], [13, 13]]]}

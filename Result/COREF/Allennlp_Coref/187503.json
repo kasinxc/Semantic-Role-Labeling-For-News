@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 2], [2, 2], [3, 7], [9, 9], [11, 12], [14, 14]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 2], "document": ["gingersnap", "berry", "dessert", "this", "cheesecake", "-", "like", "dessert", "is", "loaded", "with", "fresh", "fruit", "making", "it", "perfect", "for", "summer"], "clusters": [[[3, 7], [14, 14]]]}

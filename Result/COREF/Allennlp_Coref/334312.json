@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [0, 3], [1, 2], [4, 5], [4, 6], [8, 10], [8, 12], [14, 14]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 1], "document": ["ohio", "liquor", "stores", "offering", "last", "call", "discounts", "on", "hundreds", "of", "bottles", "get", "em", "before", "they", "'re", "gone", "department", "of", "commerce"], "clusters": [[[8, 10], [14, 14]]]}

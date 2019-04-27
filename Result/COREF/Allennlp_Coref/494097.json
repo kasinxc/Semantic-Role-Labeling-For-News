@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [3, 6], [9, 9], [11, 11], [12, 12], [14, 14], [14, 15], [14, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1, -1], "document": ["halloween", "maction", "provides", "utterly", "bizarre", "penalty", "call", "oh", "how", "we", "'ve", "missed", "maction", "in", "our", "lives", "penalty", "toledo", "miami", "ohio"], "clusters": [[[9, 9], [14, 14]]]}

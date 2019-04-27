@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [1, 1], [2, 2], [3, 3], [5, 5], [7, 11], [14, 14], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 3], "document": ["charlize", "theron", "says", "she", "never", "ghosted", "on", "sean", "penn", "fury", "road", "star", "does", "n't", "appreciate", "the", "rumors", "about", "her", "recent", "breakup"], "clusters": [[[3, 3], [18, 18]]]}

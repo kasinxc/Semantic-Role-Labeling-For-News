@@ -1,0 +1,1 @@
+{"top_spans": [[1, 6], [2, 6], [7, 8], [9, 9], [10, 10], [14, 14]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1], "document": ["bulls", "announce", "2017", "-", "18", "television", "schedule", "the", "bulls", "announced", "their", "television", "schedule", "on", "thursday", "bulls"], "clusters": [[[7, 8], [10, 10]]]}

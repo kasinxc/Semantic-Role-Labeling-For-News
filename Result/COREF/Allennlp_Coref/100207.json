@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 1], [1, 1], [2, 6], [10, 10], [11, 11], [12, 12], [12, 14]], "predicted_antecedents": [-1, -1, -1, -1, 0, -1, -1, -1], "document": ["cappuccino", "flats", "these", "coffee", "-", "flavored", "cookies", "are", "so", "delicious", "they", "make", "my", "own", "kitchen", "seen", "like", "a", "gourmet", "bakery"], "clusters": [[[2, 6], [10, 10]]]}

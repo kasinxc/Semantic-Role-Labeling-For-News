@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [1, 2], [7, 7], [10, 10], [12, 12]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1], "document": ["crack", "your", "eggs", "into", "a", "separate", "bowl", "i", "'m", "begging", "you", "trust", "me", "on", "this", "one", "eggs"], "clusters": [[[7, 7], [12, 12]]]}

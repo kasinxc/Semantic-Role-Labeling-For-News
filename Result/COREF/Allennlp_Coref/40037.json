@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [4, 4], [5, 7], [12, 12], [13, 13], [16, 16], [18, 19], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, 1, 2, -1, -1], "document": ["a", "22-year", "-", "old", "made", "the", "ultimate", "guide", "on", "how", "to", "use", "snapchat", "it", "easier", "than", "it", "seems", "snapchat", "bloomberg"], "clusters": [[[5, 7], [13, 13], [16, 16]]]}

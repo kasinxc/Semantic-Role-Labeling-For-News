@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 10], [5, 10], [5, 14], [11, 11], [13, 14], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 5], "document": ["youtube", "creators", "are", "angry", "about", "youtube", "auto", "-", "thumbnail", "experiment", "creators", "took", "to", "social", "media", "with", "their", "outrage", "youtube"], "clusters": [[[0, 1], [16, 16]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [6, 6], [7, 7], [13, 13], [15, 15], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4], "document": ["barack", "obama", "does", "n't", "care", "about", "pokemon", "you", "'re", "not", "the", "only", "one", "mr", "president", "barack", "obama"], "clusters": [[[1, 1], [16, 16]]]}

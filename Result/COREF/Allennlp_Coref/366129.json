@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 1], [14, 14], [15, 15], [17, 17], [17, 20], [18, 20], [19, 20]], "predicted_antecedents": [-1, -1, -1, -1, 0, -1, -1, -1], "document": ["pritzker", "wealth", "ca", "n't", "save", "you", "from", "yourself", "j", "b", "pritzker", "billions", "ca", "n't", "save", "him", "from", "himself", "jb", "pritzker", "pritzker"], "clusters": [[[15, 15], [17, 17]]]}

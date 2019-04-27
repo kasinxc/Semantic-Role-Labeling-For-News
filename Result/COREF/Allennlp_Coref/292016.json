@@ -1,0 +1,1 @@
+{"top_spans": [[2, 5], [2, 6], [3, 6], [8, 8], [11, 13], [16, 16], [17, 17]], "predicted_antecedents": [-1, -1, -1, 1, -1, 2, -1], "document": ["masters", "of", "sex", "season", "-", "finale", "recap", "well", "that", "seemed", "like", "a", "series", "finale", "did", "n't", "it", "gini"], "clusters": [[[2, 6], [8, 8]], [[3, 6], [16, 16]]]}

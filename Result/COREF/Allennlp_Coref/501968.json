@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [3, 3], [5, 5], [13, 14], [14, 14], [14, 17], [16, 17]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["we", "'re", "finally", "understanding", "how", "we", "can", "repair", "spinal", "cord", "injuries", "surgeons", "and", "neurons", "team", "up", "spinal", "cord"], "clusters": [[[0, 0], [5, 5]]]}

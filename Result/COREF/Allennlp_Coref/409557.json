@@ -1,0 +1,1 @@
+{"top_spans": [[1, 2], [1, 3], [7, 11], [13, 13], [15, 15], [16, 16], [20, 20], [21, 21]], "predicted_antecedents": [-1, -1, -1, 1, -1, 1, -1, -1], "document": ["sorry", "the", "iphone", "xr", "wo", "n't", "have", "a", "dual", "-", "lens", "camera", "but", "it", "does", "have", "its", "own", "portrait", "mode", "apple", "iphone"], "clusters": [[[1, 3], [13, 13], [16, 16]]]}

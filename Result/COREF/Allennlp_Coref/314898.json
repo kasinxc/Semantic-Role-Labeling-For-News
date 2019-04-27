@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [1, 1], [5, 5], [5, 9], [14, 15], [18, 18], [20, 20], [21, 21]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1, -1, -1], "document": ["nfl", "lineman", "were", "n't", "always", "big", "and", "fat", "cam", "newton", "could", "have", "been", "on", "the", "ol", "in", "the", "1960", "nfl", "cam", "newton"], "clusters": [[[0, 1], [14, 15]]]}

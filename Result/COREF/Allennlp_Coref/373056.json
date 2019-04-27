@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [0, 4], [7, 10], [11, 11], [13, 13], [14, 14], [16, 18], [16, 19]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1, -1, -1], "document": ["rare", "skin", "disease", "leaves", "woman", "covered", "in", "almost", "6", "000", "tumours", "she", "now", "raising", "money", "for", "life", "-", "changing", "treatment"], "clusters": [[[0, 4], [11, 11]]]}

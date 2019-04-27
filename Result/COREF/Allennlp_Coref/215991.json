@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [3, 3], [4, 4], [5, 5], [5, 6], [5, 10], [8, 8], [8, 10]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, 2, -1], "document": ["how", "will", "princess", "eugenie", "wear", "her", "makeup", "on", "her", "wedding", "day", "predicting", "the", "bride", "-", "to", "-", "be", "beauty", "look", "princess", "eugenie"], "clusters": [[[2, 2], [5, 5], [8, 8]]]}

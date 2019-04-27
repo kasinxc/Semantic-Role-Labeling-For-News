@@ -1,0 +1,1 @@
+{"top_spans": [[3, 3], [5, 5], [7, 7], [9, 9], [11, 11], [12, 12], [13, 13], [16, 16]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1, -1, -1], "document": ["36", "jokes", "about", "ninjas", "because", "we", "love", "you", "and", "we", "also", "love", "ninjas", "they", "'ll", "make", "you", "laugh", "to", "death", "denver", "chicago"], "clusters": [[[5, 5], [9, 9]]]}

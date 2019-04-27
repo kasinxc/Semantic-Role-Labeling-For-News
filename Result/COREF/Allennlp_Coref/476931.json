@@ -1,0 +1,1 @@
+{"top_spans": [[3, 3], [5, 5], [6, 9], [8, 9], [12, 13], [12, 16], [15, 16], [19, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 2], "document": ["two", "more", "crashes", "reported", "on", "i-81", "one", "of", "the", "crashes", "is", "in", "dauphin", "county", "and", "the", "other", "is", "in", "cumberland", "county"], "clusters": [[[12, 13], [19, 20]]]}

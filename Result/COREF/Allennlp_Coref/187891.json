@@ -1,0 +1,1 @@
+{"top_spans": [[3, 4], [6, 10], [9, 10], [9, 16], [13, 16], [15, 16], [18, 20], [21, 21]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1, -1], "document": ["conference", "players", "of", "the", "week", "oct", "4", "-", "10", "the", "latest", "look", "at", "players", "of", "the", "week", "from", "each", "conference", "players", "brian"], "clusters": [[[3, 4], [15, 16]]]}

@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "has", "description": "[ARGM-ADV: at least] [ARG0: she] [V: has] [ARG1: a good sun hat]", "tags": ["B-ARGM-ADV", "I-ARGM-ADV", "B-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1"]}], "words": ["at", "least", "she", "has", "a", "good", "sun", "hat"]}

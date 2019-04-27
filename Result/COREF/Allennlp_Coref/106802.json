@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 3], [4, 4], [7, 7], [15, 19], [17, 18], [17, 19]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1, -1], "document": ["chicago", "seeing", "fewer", "bridge", "lifts", "here", "why", "it", "bridge", "-", "lifting", "season", "in", "chicago", "bridge", "chicago", "river", "chicago", "lake", "michigan"], "clusters": [[[2, 3], [7, 7]]]}

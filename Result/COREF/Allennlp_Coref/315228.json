@@ -1,0 +1,1 @@
+{"top_spans": [[3, 7], [6, 6], [6, 7], [8, 8], [9, 9], [9, 10], [12, 13], [15, 20]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1, -1], "document": ["who", "will", "win", "eagles", "-", "giants", "our", "staffers", "make", "their", "picks", "for", "the", "opener", "and", "all", "the", "week", "6", "games", "nfl"], "clusters": [[[6, 7], [9, 9]]]}

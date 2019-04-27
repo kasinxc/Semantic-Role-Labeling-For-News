@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [2, 2], [5, 5], [9, 10], [15, 15], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, 0, -1], "document": ["31", "celebrities", "you", "did", "n't", "realize", "are", "really", "short", "some", "actors", "may", "be", "shorter", "than", "they", "appear"], "clusters": [[[9, 10], [15, 15]]]}

@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "colder", "description": "[ARG1: rounds and rounds of colder air] canada [V: colder] [ARG1: air] [ARGM-DIS: kentuckiana]", "tags": ["B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "O", "B-V", "B-ARG1", "B-ARGM-DIS"]}], "words": ["rounds", "and", "rounds", "of", "colder", "air", "canada", "colder", "air", "kentuckiana"]}

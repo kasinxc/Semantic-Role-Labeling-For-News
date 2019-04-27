@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [3, 7], [9, 9], [11, 11], [13, 13], [13, 14], [15, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 0, -1, -1], "document": ["lemon", "garlic", "chicken", "this", "time", "-", "tested", "recipe", "was", "given", "to", "me", "by", "my", "sister", "the", "garlic", "is", "sweet", "and", "tender", "lemon"], "clusters": [[[11, 11], [13, 13]]]}

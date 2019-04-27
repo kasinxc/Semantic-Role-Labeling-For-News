@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "slide", "description": "stamford [V: slide] [ARG1: the city] [ARGM-TMP: 2016] the city stamford", "tags": ["O", "B-V", "B-ARG1", "I-ARG1", "B-ARGM-TMP", "O", "O", "O"]}], "words": ["stamford", "slide", "the", "city", "2016", "the", "city", "stamford"]}

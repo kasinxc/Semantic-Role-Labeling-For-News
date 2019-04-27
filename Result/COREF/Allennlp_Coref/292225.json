@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [3, 3], [5, 5], [6, 6], [7, 7], [10, 10], [12, 12], [13, 13]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 3], "document": ["reds", "interested", "in", "re", "-", "signing", "him", "reds", "interested", "in", "re", "-", "signing", "him", "reds", "mark", "sheldon", "mlb", "com", "mlbcom", "matt", "harvey"], "clusters": [[[6, 6], [13, 13]]]}

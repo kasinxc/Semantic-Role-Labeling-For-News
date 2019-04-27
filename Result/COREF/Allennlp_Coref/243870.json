@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [5, 5], [6, 7], [7, 7], [8, 8], [14, 14], [17, 17], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 1, 0], "document": ["it", "all", "too", "easy", "to", "ignore", "relationship", "dealbreakers", "we", "are", "n't", "as", "good", "at", "rejecting", "others", "as", "we", "think", "we", "are"], "clusters": [[[8, 8], [17, 17], [19, 19]]]}

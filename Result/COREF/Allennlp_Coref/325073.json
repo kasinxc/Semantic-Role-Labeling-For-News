@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [1, 2], [5, 5], [8, 10], [14, 14], [15, 15]], "predicted_antecedents": [-1, -1, -1, -1, -1, 3], "document": ["has", "your", "facebook", "been", "cloned", "i", "'ve", "gotten", "the", "same", "message", "from", "several", "friends", "facebook", "news10nbc"], "clusters": [[[1, 2], [15, 15]]]}

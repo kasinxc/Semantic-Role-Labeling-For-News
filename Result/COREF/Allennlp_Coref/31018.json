@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [2, 2], [6, 6], [8, 8], [9, 9], [16, 16], [16, 19], [17, 19]], "predicted_antecedents": [-1, -1, -1, -1, 0, -1, -1, -1], "document": ["5", "things", "you", "probably", "did", "n't", "know", "about", "bluetooth", "its", "history", "is", "rooted", "in", "blueberries", "denmark", "harold", "bl\u00e5tand", "nokia", "bluetooth"], "clusters": [[[8, 8], [9, 9]]]}

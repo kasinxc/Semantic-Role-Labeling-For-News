@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [2, 2], [6, 6], [9, 9], [12, 12], [13, 13], [13, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1], "document": ["should", "you", "upgrade", "no", "matter", "which", "galaxy", "you", "own", "we", "'ll", "give", "you", "our", "best", "advice", "jessica", "dolcourt", "samsung"], "clusters": [[[9, 9], [13, 13]]]}

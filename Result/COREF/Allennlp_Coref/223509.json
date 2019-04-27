@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [3, 3], [3, 6], [5, 6], [8, 8], [9, 9], [10, 11], [19, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1, -1], "document": ["how", "to", "clean", "shoes", "in", "the", "washer", "without", "ruining", "them", "casual", "shoes", "are", "washer", "-", "friendly", "with", "these", "tips", "cnet", "tennis"], "clusters": [[[3, 6], [9, 9]]]}

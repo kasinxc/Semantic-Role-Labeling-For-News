@@ -1,0 +1,1 @@
+{"top_spans": [[0, 6], [3, 6], [4, 4], [4, 6], [9, 9], [11, 12], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1], "document": ["the", "12", "burning", "questions", "bodyguard", "episode", "3", "has", "left", "us", "with", "this", "series", "really", "is", "n't", "letting", "up", "julia"], "clusters": [[[0, 6], [11, 12]]]}

@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "disputes", "description": "[ARG0: tenant] [V: disputes] [ARG1: terms of oral lease sheryl lease]", "tags": ["B-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1"]}], "words": ["tenant", "disputes", "terms", "of", "oral", "lease", "sheryl", "lease"]}

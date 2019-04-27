@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 3], [7, 7], [8, 8], [10, 10], [12, 12], [13, 13], [15, 15]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 5, -1], "document": ["the", "brands", "with", "lifetime", "warranties", "that", "'ll", "outfit", "you", "from", "head", "to", "toe", "they", "only", "get", "better", "with", "age", "toe"], "clusters": [[[0, 1], [13, 13]]]}

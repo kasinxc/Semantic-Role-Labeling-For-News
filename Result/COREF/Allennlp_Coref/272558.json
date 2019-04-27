@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [7, 7], [9, 10], [12, 12], [13, 13], [14, 14], [14, 15], [20, 20]], "predicted_antecedents": [-1, -1, -1, 0, -1, 1, -1, -1], "document": ["lily", "-", "rose", "depp", "is", "just", "like", "you", "as", "a", "teen", "except", "she", "shares", "her", "takeout", "with", "a", "bodyguard", "depp", "jennifer"], "clusters": [[[9, 10], [12, 12], [14, 14]]]}

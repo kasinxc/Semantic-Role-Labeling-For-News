@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [1, 1], [4, 4], [5, 5], [5, 9], [6, 9], [11, 12], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 5, -1], "document": ["these", "brexit", "memes", "are", "giving", "people", "a", "much", "-", "needed", "laugh", "these", "brits", "still", "have", "a", "sense", "of", "humour", "european", "union"], "clusters": [[[0, 2], [11, 12]]]}

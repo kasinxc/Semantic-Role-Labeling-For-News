@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 1], [2, 2], [4, 4], [4, 5], [6, 8], [9, 9], [13, 13]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 1], "document": ["8-foot", "shark", "caught", "in", "potomac", "river", "a", "local", "fisherman", "finds", "a", "surprise", "in", "his", "net", "shark", "willy", "dean", "potomac", "river"], "clusters": [[[6, 8], [13, 13]]]}

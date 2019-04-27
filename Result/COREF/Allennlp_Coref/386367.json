@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [5, 9], [8, 9], [12, 13], [15, 15], [16, 16], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 3, -1], "document": ["darko", "milicic", "we", "'re", "profiling", "every", "player", "on", "the", "celtics", "roster", "before", "the", "season", "begins", "today", "it", "darko", "milicic"], "clusters": [[[5, 9], [16, 16]]]}

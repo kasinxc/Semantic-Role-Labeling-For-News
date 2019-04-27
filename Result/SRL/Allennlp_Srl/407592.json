@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "so [ARG2: what] [ARGM-ADV: exactly] [V: is] [ARG1: tapioca] anyway northern brazil africa asia", "tags": ["O", "B-ARG2", "B-ARGM-ADV", "B-V", "B-ARG1", "O", "O", "O", "O", "O"]}], "words": ["so", "what", "exactly", "is", "tapioca", "anyway", "northern", "brazil", "africa", "asia"]}

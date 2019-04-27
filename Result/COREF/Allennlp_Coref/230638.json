@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [4, 6], [8, 8], [10, 10], [10, 11], [10, 16], [20, 20]], "predicted_antecedents": [-1, -1, -1, 0, 3, -1, -1, -1], "document": ["i", "started", "shaving", "with", "a", "men", "razor", "and", "it", "changed", "my", "life", "toodle", "-", "loo", "lady", "blades", "razor", "facial", "hair", "shaving"], "clusters": [[[4, 6], [8, 8]], [[0, 0], [10, 10]]]}

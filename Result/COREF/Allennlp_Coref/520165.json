@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [2, 4], [3, 4], [9, 9], [10, 10], [14, 14], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 0, -1], "document": ["wife", "comics", "about", "married", "life", "are", "just", "so", "darn", "relatable", "they", "'re", "funny", "because", "they", "'re", "true", "hedger"], "clusters": [[[10, 10], [14, 14]]]}

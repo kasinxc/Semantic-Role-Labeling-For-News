@@ -1,0 +1,1 @@
+{"top_spans": [[4, 4], [5, 5], [6, 6], [8, 10], [11, 11], [12, 12], [15, 15], [17, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1, -1], "document": ["the", "one", "office", "perk", "you", "must", "splurge", "on", "38", "of", "workers", "said", "they", "could", "n't", "live", "without", "this", "caffeine", "starbucks"], "clusters": [[[8, 10], [12, 12]]]}

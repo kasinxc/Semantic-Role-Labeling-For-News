@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 7], [4, 4], [7, 7], [8, 9], [9, 9], [10, 10], [13, 13]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 1], "document": ["dating", "in", "a", "relationship", "it", "going", "to", "cost", "you", "people", "spend", "more", "when", "they", "'re", "looking", "for", "long", "-", "term", "love", "partner"], "clusters": [[[9, 9], [13, 13]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[1, 4], [7, 7], [11, 11], [11, 13], [15, 15], [15, 16], [19, 20], [20, 20]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1, -1], "document": ["9", "more", "mustaches", "justin", "bieber", "could", "n't", "pull", "off", "other", "than", "his", "own", "bieber", "and", "his", "mustache", "are", "back", "justin", "bieber"], "clusters": [[[11, 11], [15, 15]]]}

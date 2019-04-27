@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [0, 6], [6, 6], [7, 7], [8, 8], [14, 15]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1], "document": ["the", "highest", "-", "paying", "jobs", "at", "apple", "ranked", "they", "'re", "in", "the", "money", "glassdoor", "steve", "jobs", "apple"], "clusters": [[[0, 4], [8, 8]]]}

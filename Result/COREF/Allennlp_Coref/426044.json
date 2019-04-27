@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 1], [1, 1], [3, 11], [10, 10], [15, 15], [19, 19], [21, 21]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1, -1], "document": ["talkback", "feedback", "there", "a", "radio", "host", "who", "is", "fond", "of", "saying", "angry", "is", "over", "but", "he", "obviously", "does", "n't", "listen", "to", "talkback"], "clusters": [[[3, 11], [15, 15]]]}

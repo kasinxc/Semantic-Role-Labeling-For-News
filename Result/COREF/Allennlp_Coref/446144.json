@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [6, 6], [8, 8], [9, 14], [10, 10], [15, 15], [16, 17]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1, -1], "document": ["the", "united", "states", "senate", "is", "a", "failed", "institution", "it", "a", "malapportioned", "anti", "-", "democratic", "embarrassment", "united", "states", "senate"], "clusters": [[[0, 3], [8, 8]]]}

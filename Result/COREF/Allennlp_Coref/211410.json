@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [3, 3], [4, 4], [4, 8], [7, 8], [11, 11], [16, 20], [18, 21]], "predicted_antecedents": [-1, -1, 1, -1, -1, 4, -1, -1], "document": ["how", "apple", "really", "lost", "its", "lead", "in", "the", "80s", "and", "why", "it", "wo", "n't", "happen", "again", "this", "time", "google", "microsoft", "ibm", "apple"], "clusters": [[[1, 1], [4, 4], [11, 11]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [4, 10], [12, 12], [14, 14], [15, 15], [16, 16], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1], "document": ["only", "36", "companies", "have", "1", "000", "million", "-", "plus", "ad", "budgets", "spend", "it", "if", "you", "got", "it", "apple"], "clusters": [[[12, 12], [16, 16]]]}

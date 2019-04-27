@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [5, 5], [8, 8], [12, 14], [12, 21], [17, 21], [18, 18]], "predicted_antecedents": [-1, -1, 0, -1, -1, -1, -1, -1], "document": ["minnesota", "postgame", "watch", "what", "tom", "allen", "had", "to", "say", "after", "the", "hoosiers", "38", "-", "31", "loss", "at", "minnesota", "coach", "tv", "indiana", "minnesota"], "clusters": [[[1, 1], [5, 5]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[1, 9], [6, 6], [7, 7], [9, 9], [11, 11], [13, 13], [16, 16], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, 0, -1, -1], "document": ["there", "only", "one", "correct", "way", "to", "pronounce", "sherbet", "and", "this", "is", "it", "no", "it", "does", "n't", "rhyme", "with", "herbert", "sherbet", "herbert"], "clusters": [[[11, 11], [13, 13]]]}

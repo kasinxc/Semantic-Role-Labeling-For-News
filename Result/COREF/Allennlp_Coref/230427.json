@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [6, 6], [6, 7], [9, 9], [10, 11], [14, 14], [16, 16], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 2], "document": ["i", "do", "n't", "boo", "-", "lieve", "you", "why", "are", "ghosts", "bad", "liars", "a", "because", "you", "can", "see", "right", "through", "them"], "clusters": [[[10, 11], [19, 19]]]}

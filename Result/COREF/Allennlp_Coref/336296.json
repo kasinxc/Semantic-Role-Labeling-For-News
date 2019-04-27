@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [2, 2], [5, 5], [11, 11], [12, 12], [14, 14], [17, 17], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1, -1], "document": ["once", "you", "watch", "how", "gummy", "candy", "is", "made", "you", "'ll", "never", "eat", "it", "again", "this", "is", "deeply", "upsetting", "agar", "america", "candy"], "clusters": [[[5, 5], [12, 12]]]}

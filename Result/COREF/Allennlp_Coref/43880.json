@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 7], [3, 12], [7, 7], [9, 10], [9, 12], [14, 14], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 2], "document": ["a", "man", "took", "an", "illegal", "video", "of", "beijing", "using", "a", "drone", "see", "beijing", "as", "you", "'ve", "never", "seen", "it", "before", "beijing"], "clusters": [[[9, 10], [18, 18]]]}

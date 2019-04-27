@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 3], [2, 3], [4, 8], [10, 10], [13, 13], [16, 16], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, 0, -1, -1, -1], "document": ["classic", "red", "velvet", "cake", "this", "ruby", "-", "red", "cake", "with", "it", "lovely", "cream", "cheese", "frosting", "has", "become", "my", "cake", "red", "velvet", "cake"], "clusters": [[[4, 8], [10, 10]]]}

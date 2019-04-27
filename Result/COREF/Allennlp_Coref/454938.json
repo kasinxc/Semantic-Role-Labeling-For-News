@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [3, 3], [5, 7], [8, 8], [11, 11], [12, 12], [13, 13], [14, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1, -1], "document": ["these", "truly", "wireless", "earbuds", "are", "the", "workout", "accessory", "i", "did", "n't", "know", "i", "needed", "the", "jaybird", "run", "earbuds", "exceeded", "expectations"], "clusters": [[[8, 8], [12, 12]]]}

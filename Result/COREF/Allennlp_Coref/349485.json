@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [3, 3], [4, 4], [5, 5], [5, 8], [7, 8], [10, 10], [15, 15]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 1], "document": ["people", "will", "think", "you", "paid", "more", "for", "these", "nightstands", "than", "you", "actually", "did", "better", "yet", "they", "'re", "all", "under", "100"], "clusters": [[[7, 8], [15, 15]]]}

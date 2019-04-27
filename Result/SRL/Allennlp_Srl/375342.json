@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "bleeding", "description": "[ARGM-MNR: rectal] [V: bleeding] [ARG1: back pain] rectal bleeding diverticulitis", "tags": ["B-ARGM-MNR", "B-V", "B-ARG1", "I-ARG1", "O", "O", "O"]}], "words": ["rectal", "bleeding", "back", "pain", "rectal", "bleeding", "diverticulitis"]}

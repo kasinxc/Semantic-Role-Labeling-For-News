@@ -1,0 +1,1 @@
+{"top_spans": [[4, 6], [8, 8], [15, 15], [17, 17], [18, 18], [19, 20], [19, 21], [21, 21]], "predicted_antecedents": [-1, -1, 0, -1, -1, -1, -1, -1], "document": ["hands", "-", "on", "with", "the", "asus", "zenwatch", "3", "this", "is", "the", "new", "asus", "zenwatch", "3", "it", "has", "dual", "distinctions", "asus", "lg", "zenfit"], "clusters": [[[8, 8], [15, 15]]]}

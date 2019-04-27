@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 2], [5, 5], [5, 8], [5, 9]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1], "document": ["conor", "mcgregor", "tried", "to", "explain", "his", "much", "-", "mocked", "throw", "sure", "conor", "mcgregor", "nfl", "dallas", "cowboys"], "clusters": [[[1, 1], [5, 5]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [0, 8], [6, 8], [11, 11], [13, 13], [15, 15], [17, 17]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1, -1], "document": ["the", "10", "oldest", "pizza", "joints", "in", "new", "york", "city", "and", "how", "they", "'ve", "managed", "to", "stick", "around", "pizza"], "clusters": [[[0, 8], [11, 11]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [3, 3], [4, 4], [5, 5], [9, 9], [13, 13]], "predicted_antecedents": [-1, -1, -1, -1, 3, 0], "document": ["what", "is", "it", "anyway", "file", "this", "in", "the", "try", "it", "you", "'ll", "like", "it", "column", "redditor", "mrmexico25"], "clusters": [[[2, 2], [9, 9], [13, 13]]]}

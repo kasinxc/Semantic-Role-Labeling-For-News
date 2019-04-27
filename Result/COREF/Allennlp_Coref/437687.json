@@ -1,0 +1,1 @@
+{"top_spans": [[5, 6], [9, 9], [9, 12], [14, 14], [14, 16], [16, 16]], "predicted_antecedents": [-1, 0, -1, -1, -1, -1], "document": ["the", "christmas", "miracle", "that", "saved", "tesla", "tesla", "was", "on", "its", "death", "-", "bed", "in", "2008", "elon", "musk"], "clusters": [[[5, 6], [9, 9]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 3], [1, 1], [5, 5], [6, 8], [9, 9], [10, 10], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 1, -1], "document": ["woody", "woodpecker", "72", "years", "ago", "today", "the", "cartoon", "favorite", "made", "his", "big", "-", "screen", "debut", "woody", "woody", "woodpecker", "walter", "lantz"], "clusters": [[[6, 8], [10, 10]]]}

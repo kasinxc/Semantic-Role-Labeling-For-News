@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "post", "description": "owasso school locks down after [ARG0: social] [ARG0: media] [V: post] owasso oklahoma owasso owasso school", "tags": ["O", "O", "O", "O", "O", "B-ARG0", "B-ARG0", "B-V", "O", "O", "O", "O", "O"]}], "words": ["owasso", "school", "locks", "down", "after", "social", "media", "post", "owasso", "oklahoma", "owasso", "owasso", "school"]}

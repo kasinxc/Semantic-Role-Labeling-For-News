@@ -1,0 +1,1 @@
+{"top_spans": [[3, 3], [4, 4], [5, 5], [7, 7], [8, 11], [14, 14], [16, 16], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, 0, -1, -1], "document": ["the", "man", "behind", "facebook", "secret", "plan", "to", "build", "an", "iphone", "-", "killer", "tells", "why", "it", "never", "happened", "is", "facebook", "home", "a", "flop"], "clusters": [[[8, 11], [14, 14]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [0, 6], [4, 6], [7, 7], [7, 9], [11, 15], [11, 18], [17, 18]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1, -1], "document": ["a", "college", "student", "has", "3d", "-", "printed", "his", "own", "braces", "for", "less", "than", "60", "great", "idea", "in", "theory", "amos", "dudley"], "clusters": [[[0, 2], [7, 7]]]}

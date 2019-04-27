@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [0, 5], [3, 3], [3, 5], [4, 4], [5, 5], [9, 9], [11, 11]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 1], "document": ["the", "spice", "up", "you", "life", "lyrics", "are", "n't", "what", "you", "thought", "they", "were", "who", "else", "is", "shook", "geri", "halliwell", "victoria", "beckham", "twitter"], "clusters": [[[5, 5], [11, 11]]]}

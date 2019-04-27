@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [1, 1], [7, 7], [8, 8], [12, 12], [13, 13], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1], "document": ["these", "vintage", "naomi", "campbell", "pics", "are", "proof", "she", "does", "n't", "age", "seriously", "she", "looks", "the", "same", "naomi", "naomi", "campbell"], "clusters": [[[7, 7], [12, 12]]]}

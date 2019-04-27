@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [0, 4], [5, 5], [9, 17], [10, 10], [10, 11], [10, 12], [15, 15]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1, -1], "document": ["20", "research", "-", "proven", "signs", "you", "'re", "smarter", "than", "average", "your", "faith", "weight", "and", "sexual", "activity", "all", "come", "into", "play"], "clusters": [[[5, 5], [10, 10]]]}

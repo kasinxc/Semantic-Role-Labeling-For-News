@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "scattered", "description": "[ARGM-EXT: more] [V: scattered] [ARG1: showers] and [C-ARG1: storms] today google mexico northern gulf", "tags": ["B-ARGM-EXT", "B-V", "B-ARG1", "O", "B-C-ARG1", "O", "O", "O", "O", "O"]}], "words": ["more", "scattered", "showers", "and", "storms", "today", "google", "mexico", "northern", "gulf"]}

@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [3, 3], [3, 4], [6, 6], [10, 10], [12, 13], [15, 15], [17, 18]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1, -1, -1], "document": ["how", "to", "tell", "your", "boss", "that", "you", "'re", "quitting", "jason", "calacanis", "writes", "the", "script", "for", "you", "mahalocom", "jason", "calacanis", "tktk"], "clusters": [[[3, 3], [6, 6]]]}

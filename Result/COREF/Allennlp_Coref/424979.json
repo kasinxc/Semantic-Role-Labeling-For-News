@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [7, 7], [9, 9], [10, 17], [12, 16], [14, 14], [15, 16]], "predicted_antecedents": [-1, 0, -1, -1, -1, -1, -1], "document": ["if", "ads", "were", "brutally", "honest", "here", "what", "they", "'d", "say", "brands", "unveiled", "chelsea", "fagan", "david", "ogilvy", "matt", "stevenson"], "clusters": [[[1, 1], [7, 7]]]}

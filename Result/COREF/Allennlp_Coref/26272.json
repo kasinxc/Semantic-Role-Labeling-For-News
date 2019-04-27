@@ -1,0 +1,1 @@
+{"top_spans": [[5, 5], [9, 10], [14, 14], [15, 15], [16, 16], [16, 17], [16, 19], [21, 21]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1, -1, -1], "document": ["3", "reasons", "people", "burn", "out", "that", "are", "often", "overlooked", "the", "key", "is", "n't", "how", "we", "divide", "our", "time", "between", "work", "and", "play"], "clusters": [[[14, 14], [16, 16]]]}

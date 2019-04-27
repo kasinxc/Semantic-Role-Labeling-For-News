@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [2, 2], [4, 4], [5, 9], [11, 11], [12, 12], [18, 18], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1, -1], "document": ["mia", "farrow", "welcomes", "10th", "grandchild", "the", "71-year", "-", "old", "actress", "just", "welcomed", "her", "10th", "grandchild", "dylan", "mia", "farrow", "matthew", "previn"], "clusters": [[[5, 9], [12, 12]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [1, 2], [2, 2], [3, 3], [5, 5], [9, 9]], "predicted_antecedents": [-1, -1, -1, -1, -1, 3], "document": ["why", "legacy", "retailers", "need", "to", "rethink", "the", "purpose", "of", "their", "brick", "-", "and", "-", "mortar", "stores", "amazoncom"], "clusters": [[[1, 2], [9, 9]]]}

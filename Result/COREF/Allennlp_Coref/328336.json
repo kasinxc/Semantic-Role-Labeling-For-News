@@ -1,0 +1,1 @@
+{"top_spans": [[6, 6], [7, 7], [9, 10], [11, 11], [12, 14], [12, 15], [12, 16], [19, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 4], "document": ["nora", "ephron", "poignant", "list", "of", "what", "she", "'ll", "miss", "nora", "ephron", "said", "good", "-", "bye", "diagnosed", "years", "ago", "with", "nora", "ephron"], "clusters": [[[9, 10], [19, 20]]]}

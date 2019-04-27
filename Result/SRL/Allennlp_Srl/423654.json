@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "polyps", "description": "symptoms of [ARG1: gallbladder] [V: polyps] gallbladder gallbladder pain", "tags": ["O", "O", "B-ARG1", "B-V", "O", "O", "O"]}], "words": ["symptoms", "of", "gallbladder", "polyps", "gallbladder", "gallbladder", "pain"]}

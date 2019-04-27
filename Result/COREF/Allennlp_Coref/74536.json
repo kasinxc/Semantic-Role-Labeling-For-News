@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [2, 3], [7, 7], [12, 12], [13, 13], [14, 14], [15, 15]], "predicted_antecedents": [-1, -1, 0, -1, -1, -1, -1], "document": ["bartenders", "reveal", "the", "smoothest", "pick", "up", "lines", "they", "'ve", "ever", "heard", "help", "i", "ca", "n\u2019t", "breathe", "guy", "reddit"], "clusters": [[[2, 3], [7, 7]]]}

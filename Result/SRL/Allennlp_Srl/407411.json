@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "peaks", "description": "[ARG1: snow bay area] [V: peaks] [ARG1: snow bay area san francisco bay area]", "tags": ["B-ARG1", "I-ARG1", "I-ARG1", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1"]}], "words": ["snow", "bay", "area", "peaks", "snow", "bay", "area", "san", "francisco", "bay", "area"]}

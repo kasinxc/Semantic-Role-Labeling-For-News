@@ -1,4 +1,5 @@
 from coref_config import *
+import os
 
 class dataPoint:
     def get_topic(self):
@@ -22,7 +23,8 @@ class dataPoint:
         self.article_ids = ai
         self.topic_prob = tp
 
-        self.topic_order = self.get_topic()
+        if use_steplines_format == False:
+            self.topic_order = self.get_topic()
         self.words_count = dict()
         self.verbs = list() # list of labelInfos
         self.reduced_title_desc = td
@@ -32,6 +34,7 @@ class dataPoint:
 
 
 input_data_points = list()
+
 
 # input dataset
 def getTopicInfo():
@@ -44,8 +47,10 @@ def getTopicInfo():
     for i in range(title_num):
         print("There are " + str(topic_lines[i]) + " lines for topic: " + str(i))
 
-def readFile(file_path):
+
+def readFileFromTrump(file_path):
     print("reading file from path: " + file_path)
+    input_data_points = list()
     with open(file_path, 'r') as f:
         line_index = 1
         for line in f.readlines():
@@ -56,4 +61,28 @@ def readFile(file_path):
     
     getTopicInfo()
     print("successfully read the file")
-    print("total lines: " + str(len(input_data_points)))
+    print("total news: " + str(len(input_data_points)))
+
+    return input_data_points
+
+
+def readFileFromSteplines(folder_path):
+    # folder_path are like ./Data/6_month
+    # tranverse all the data file inside 6_month
+    input_data_points = list()
+    print("reading file from path: " + folder_path)
+    for root, dirs, files in os.walk(folder_path, topdown=False):
+        for name in files:
+            if not '.' in name:
+                file_path = os.path.join(root, name)
+                with open(file_path, 'r') as f:
+                    for line in f.readlines():
+                        tmp = line.strip('\n').split('\t')
+                        # print(tmp)
+                        dp = dataPoint(tmp[2],tmp[0],0)
+                        input_data_points.append(dp)
+
+    print("successfully read the data folder")
+    print("total news: " + str(len(input_data_points)))
+
+    return input_data_points

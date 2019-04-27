@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "loves", "description": "pink velvet cupcakes [ARG0: my daughter] [V: loves] [ARG1: all things baker]", "tags": ["O", "O", "O", "B-ARG0", "I-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1"]}], "words": ["pink", "velvet", "cupcakes", "my", "daughter", "loves", "all", "things", "baker"]}

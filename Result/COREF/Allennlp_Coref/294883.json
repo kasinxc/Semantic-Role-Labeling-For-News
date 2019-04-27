@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 6], [11, 11], [12, 12], [12, 15], [17, 17], [18, 18], [20, 20]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1, -1, -1], "document": ["meet", "the", "real", "-", "life", "ron", "burgundy", "will", "ferrell", "did", "n't", "pull", "his", "infamous", "ron", "bu", "will", "ferrell", "mort", "crim", "ron", "burgundy"], "clusters": [[[1, 6], [12, 12]]]}

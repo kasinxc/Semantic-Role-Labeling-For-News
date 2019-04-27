@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [2, 4], [6, 6], [7, 7], [7, 8], [10, 10], [17, 17], [19, 20]], "predicted_antecedents": [-1, -1, -1, 1, -1, 1, -1, -1], "document": ["reader", "digest", "our", "new", "neighbor", "always", "kisses", "his", "wife", "when", "he", "leaves", "for", "work", "why", "do", "n't", "you", "do", "that", "husband"], "clusters": [[[2, 4], [7, 7], [10, 10]]]}

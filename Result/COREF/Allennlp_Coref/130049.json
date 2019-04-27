@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [2, 3], [2, 8], [5, 8], [11, 11], [13, 14], [16, 16], [21, 21]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 0, -1], "document": ["day", "of", "the", "dead", "crafts", "non", "-", "crafty", "types", "can", "even", "get", "into", "the", "spirit", "because", "it", "only", "involves", "simple", "accordion", "folding"], "clusters": [[[13, 14], [16, 16]]]}

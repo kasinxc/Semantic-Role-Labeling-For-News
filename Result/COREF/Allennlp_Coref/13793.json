@@ -1,1 +1,1 @@
-{"top_spans": [[0, 5], [3, 5], [6, 6], [7, 7], [11, 12], [14, 15], [14, 17]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1], "document": ["The", "Latest", "on", "President", "Donald", "Trump", "canceling", "his", "planned", "summit", "with", "North", "Korea", "(", "all", "times", "local", ")", ":"], "clusters": [[[0, 5], [7, 7]]]}
+{"top_spans": [[0, 2], [0, 9], [8, 8], [8, 9]], "predicted_antecedents": [-1, -1, -1, -1], "document": ["11", "weighted", "blankets", "that", "wo", "n't", "weigh", "down", "your", "wallet", "sleep", "tight"], "clusters": []}

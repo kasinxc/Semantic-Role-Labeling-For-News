@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [3, 3], [5, 5], [6, 6], [6, 7], [13, 13], [18, 19], [20, 20]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1, -1], "document": ["we", "'re", "still", "trying", "to", "wrap", "our", "heads", "around", "how", "high", "lebron", "james", "jumped", "on", "this", "dunk", "unreal", "lebron", "james", "lebron"], "clusters": [[[0, 0], [6, 6]]]}

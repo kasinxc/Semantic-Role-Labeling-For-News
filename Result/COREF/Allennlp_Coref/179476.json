@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [4, 4], [5, 8], [11, 11], [13, 13], [15, 16], [15, 20], [20, 20]], "predicted_antecedents": [-1, -1, -1, -1, 2, -1, -1, -1], "document": ["2-day", "clinic", "held", "in", "memphis", "a", "free", "dental", "clinic", "will", "be", "held", "in", "memphis", "on", "friday", "cordova", "bellevue", "baptist", "church", "midmom"], "clusters": [[[4, 4], [13, 13]]]}

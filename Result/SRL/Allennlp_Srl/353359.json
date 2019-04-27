@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "weekend", "description": "more stormy weather this [ARG1: weekend] [V: weekend] new orleans weather gretna fest louisiana", "tags": ["O", "O", "O", "O", "B-ARG1", "B-V", "O", "O", "O", "O", "O", "O"]}], "words": ["more", "stormy", "weather", "this", "weekend", "weekend", "new", "orleans", "weather", "gretna", "fest", "louisiana"]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [2, 3], [2, 4], [6, 6], [14, 14]], "predicted_antecedents": [-1, 0, -1, -1, 2, 2], "document": ["i", "love", "my", "husband", "\u2014\u200b", "but", "i", "do", "n't", "want", "to", "have", "sex", "with", "him", "pats", "marijuana"], "clusters": [[[0, 0], [2, 2], [6, 6]], [[2, 3], [14, 14]]]}

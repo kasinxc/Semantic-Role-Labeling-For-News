@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [4, 4], [4, 9], [4, 11], [5, 5]], "predicted_antecedents": [-1, -1, -1, -1, 3], "document": ["here", "why", "china", "is", "abolishing", "its", "one", "-", "child", "policy", "population", "policy", "taiwan", "china"], "clusters": [[[2, 2], [5, 5]]]}

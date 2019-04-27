@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [3, 5], [7, 7], [8, 8], [10, 10], [16, 16], [20, 20], [21, 21]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1, 1], "document": ["how", "to", "turn", "unwanted", "gift", "cards", "into", "cash", "it", "if", "you", "'re", "never", "going", "to", "use", "it", "might", "as", "well", "sell", "it"], "clusters": [[[8, 8], [16, 16], [21, 21]]]}

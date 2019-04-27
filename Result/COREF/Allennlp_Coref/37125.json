@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [0, 5], [6, 6], [7, 7], [8, 8], [8, 9]], "predicted_antecedents": [-1, -1, -1, -1, 1, -1], "document": ["8", "brain", "-", "busting", "interview", "questions", "google", "asks", "its", "engineers", "good", "luck", "trying", "to", "answers", "these", "google"], "clusters": [[[6, 6], [8, 8]]]}

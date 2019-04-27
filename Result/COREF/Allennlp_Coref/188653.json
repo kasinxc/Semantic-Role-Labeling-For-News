@@ -1,0 +1,1 @@
+{"top_spans": [[2, 9], [5, 5], [5, 9], [11, 11], [13, 13]], "predicted_antecedents": [-1, -1, -1, -1, 2], "document": ["go", "behind", "the", "scenes", "of", "2001", "forty", "-", "six", "years", "after", "its", "release", "2001"], "clusters": [[[5, 5], [13, 13]]]}

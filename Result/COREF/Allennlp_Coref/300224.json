@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [4, 4], [6, 6], [8, 8], [10, 10], [13, 15], [14, 15], [14, 20]], "predicted_antecedents": [-1, 0, -1, -1, -1, -1, -1, -1], "document": ["michelle", "obama", "reveals", "if", "she", "'ll", "run", "for", "office", "in", "brand", "new", "interview", "michelle", "obama", "nbc", "justin", "bieber", "selena", "gomez", "president"], "clusters": [[[1, 1], [4, 4]]]}

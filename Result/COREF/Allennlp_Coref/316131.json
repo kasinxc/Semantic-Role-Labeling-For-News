@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 5], [8, 8], [10, 10], [11, 12], [14, 14], [15, 15]], "predicted_antecedents": [-1, -1, 0, -1, -1, -1, -1], "document": ["nio", "has", "the", "electric", "-", "car", "look", "but", "it", "no", "tesla", "fancy", "baubles", "do", "n\u2019t", "make", "a", "genuine", "contender"], "clusters": [[[2, 5], [8, 8]]]}

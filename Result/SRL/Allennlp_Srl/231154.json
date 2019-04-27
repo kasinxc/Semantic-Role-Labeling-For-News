@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "hate", "description": "[ARG0: i] [V: hate] [ARG1: the republican norah] [ARGM-DIS: o'donnell]", "tags": ["B-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "B-ARGM-DIS"]}], "words": ["i", "hate", "the", "republican", "norah", "o'donnell"]}

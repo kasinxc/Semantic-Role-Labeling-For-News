@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [5, 5], [6, 10], [10, 10], [11, 11], [14, 14]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1], "document": ["shopping", "freeze", "i", "'m", "currently", "boycotting", "any", "company", "that", "sells", "items", "i", "ca", "n't", "afford"], "clusters": [[[2, 2], [11, 11]]]}

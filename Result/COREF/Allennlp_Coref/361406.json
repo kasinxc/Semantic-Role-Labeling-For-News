@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 5], [7, 11], [12, 13], [16, 16], [17, 17], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, 2, -1, -1], "document": ["reader", "digest", "q", "which", "country", "capital", "has", "the", "fastest", "-", "growing", "population", "a", "ireland", "every", "day", "it", "dublin", "confucius"], "clusters": [[[4, 5], [16, 16]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[5, 6], [5, 7], [8, 8], [9, 9], [13, 13], [15, 15], [17, 20], [18, 20]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1, -1, -1], "document": ["celebrities", "who", "did", "n't", "win", "the", "mega", "millions", "jackpot", "they", "'re", "just", "as", "bummed", "as", "you", "are", "south", "carolina", "mega", "millions"], "clusters": [[[5, 7], [9, 9]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [2, 2], [3, 7], [6, 7], [8, 8], [9, 10], [14, 19], [17, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 4], "document": ["chunky", "pecan", "bars", "hazel", "baldner", "of", "austin", "minnesota", "says", "most", "folds", "ca", "n't", "eat", "just", "one", "of", "these", "rich", "gooey", "bars", "wi"], "clusters": [[[3, 7], [17, 19]]]}

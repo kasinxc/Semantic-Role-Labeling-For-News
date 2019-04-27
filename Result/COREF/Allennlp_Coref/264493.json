@@ -1,0 +1,1 @@
+{"top_spans": [[6, 6], [6, 10], [7, 10], [7, 13], [10, 10], [11, 13], [19, 19], [19, 21]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 1], "document": ["cute", "new", "baby", "flamingo", "hi", "there", "fluffy", "little", "guy", "or", "gal", "the", "national", "zoo", "is", "n't", "sure", "yet", "if", "their", "national", "zoo"], "clusters": [[[11, 13], [19, 21]]]}

@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [3, 8], [3, 11], [7, 7], [7, 8], [14, 14], [18, 18], [20, 20]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 4, -1], "document": ["how", "to", "write", "the", "perfect", "\u2018", "thank", "you\u2019", "email", "for", "any", "situation", "just", "saying", "thanks", "wo", "n't", "cut", "it", "danny", "rubin"], "clusters": [[[3, 8], [18, 18]]]}

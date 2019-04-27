@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "reported", "description": "ibm sinks on revenue miss ibm [V: reported] [ARG1: q3 2018 earnings] on tuesday ibm analyst", "tags": ["O", "O", "O", "O", "O", "O", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "O", "O", "O", "O"]}], "words": ["ibm", "sinks", "on", "revenue", "miss", "ibm", "reported", "q3", "2018", "earnings", "on", "tuesday", "ibm", "analyst"]}

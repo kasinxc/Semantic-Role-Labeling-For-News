@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [3, 7], [3, 11], [6, 7], [9, 9], [10, 11], [13, 13], [14, 14]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 0, -1], "document": ["tesla", "will", "face", "huge", "challenges", "in", "2018", "tesla", "will", "face", "major", "challenges", "as", "it", "becomes", "a", "mass", "-", "market", "automaker", "tesla"], "clusters": [[[10, 11], [13, 13]]]}

@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "re", "description": "[ARG0: packers] unlikely to [V: re] - sign clay matthews [ARG1: green bay packers] clay matthews iii", "tags": ["B-ARG0", "O", "O", "B-V", "O", "O", "O", "O", "B-ARG1", "I-ARG1", "I-ARG1", "O", "O", "O"]}], "words": ["packers", "unlikely", "to", "re", "-", "sign", "clay", "matthews", "green", "bay", "packers", "clay", "matthews", "iii"]}

@@ -1,0 +1,1 @@
+{"top_spans": [[0, 2], [0, 5], [4, 5], [7, 7], [8, 9], [11, 13], [14, 14], [16, 19]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1, -1, -1], "document": ["this", "6-person", "startup", "won", "sxsw", "\u2014", "and", "it", "nearly", "profitable", "after", "just", "one", "year", "watch", "out", "eventbrite", "ben", "hindman", "eventbrite"], "clusters": [[[0, 2], [7, 7]]]}

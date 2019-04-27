@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [0, 2], [6, 7], [8, 8], [14, 14], [15, 15], [17, 18], [19, 19]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1, -1, -1], "document": ["my", "ipad", "2", "wo", "n't", "download", "ios", "10", "says", "9", "3", "5", "is", "all", "i", "get", "why", "el", "capitan", "apple"], "clusters": [[[0, 0], [14, 14]]]}

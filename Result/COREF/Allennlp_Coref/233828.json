@@ -1,0 +1,1 @@
+{"top_spans": [[1, 5], [6, 6], [8, 8], [8, 9], [11, 11], [12, 12], [13, 13], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 1, -1, -1], "document": ["if", "non", "-", "dairy", "coffee", "creamer", "does", "n't", "contain", "cream", "what", "does", "it", "contain", "do", "n't", "be", "fooled", "by", "the", "word", "cream"], "clusters": [[[8, 9], [12, 12]]]}

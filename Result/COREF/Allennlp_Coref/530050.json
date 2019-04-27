@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [4, 4], [4, 5], [8, 8], [8, 10], [14, 14], [15, 15]], "predicted_antecedents": [-1, 0, -1, 1, -1, -1, -1], "document": ["you", "'ve", "been", "charging", "your", "smartphone", "wrong", "treat", "your", "smartphone", "battery", "like", "you", "'d", "treat", "yourself", "battery", "university"], "clusters": [[[0, 0], [4, 4], [8, 8]]]}

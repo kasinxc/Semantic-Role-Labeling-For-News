@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [4, 4], [5, 6], [6, 6], [8, 10], [12, 12], [17, 17], [21, 21]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 1, -1], "document": ["gene", "wilder", "agreed", "to", "play", "willy", "wonka", "under", "this", "one", "condition", "and", "we", "'re", "so", "thankful", "for", "it", "gene", "wilder", "willy", "wonka"], "clusters": [[[8, 10], [17, 17]]]}

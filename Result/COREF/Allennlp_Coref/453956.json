@@ -1,0 +1,1 @@
+{"top_spans": [[0, 5], [5, 5], [8, 8], [9, 9], [12, 12], [13, 14], [16, 16], [16, 19]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1, -1, -1], "document": ["these", "ugly", "christmas", "sweaters", "for", "couples", "are", "so", "corny", "they", "'re", "cute", "slay", "the", "season", "with", "your", "holi", "-", "bae"], "clusters": [[[5, 5], [9, 9]]]}

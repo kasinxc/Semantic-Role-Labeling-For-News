@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "is", "description": "hamburger and potato casserole [ARG1: this recipe] [V: is] [ARG2: such a hit] it hamburger casserole", "tags": ["O", "O", "O", "O", "B-ARG1", "I-ARG1", "B-V", "B-ARG2", "I-ARG2", "I-ARG2", "O", "O", "O"]}], "words": ["hamburger", "and", "potato", "casserole", "this", "recipe", "is", "such", "a", "hit", "it", "hamburger", "casserole"]}

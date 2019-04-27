@@ -1,0 +1,1 @@
+{"top_spans": [[2, 2], [3, 3], [4, 4], [4, 5], [6, 12], [14, 14], [14, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 2, -1], "document": ["eric", "and", "danielle", "get", "their", "money", "the", "amazing", "race", "all", "-", "stars", "winners", "collect", "their", "1", "million", "prize"], "clusters": [[[4, 4], [14, 14]]]}

@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "ask", "description": "[R-ARG1: what the difference] [ARG0: we] [V: ask] [ARG1: the important questions in life]", "tags": ["B-R-ARG1", "I-R-ARG1", "I-R-ARG1", "B-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1"]}], "words": ["what", "the", "difference", "we", "ask", "the", "important", "questions", "in", "life"]}

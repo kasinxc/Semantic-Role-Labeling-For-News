@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 7], [4, 8], [10, 10], [10, 14], [15, 15]], "predicted_antecedents": [-1, -1, -1, 1, -1, -1], "document": ["amber", "alert", "issued", "for", "3-year", "-", "old", "girl", "abducted", "from", "her", "bed", "amber", "alert", "mariah", "woods"], "clusters": [[[4, 7], [10, 10]]]}

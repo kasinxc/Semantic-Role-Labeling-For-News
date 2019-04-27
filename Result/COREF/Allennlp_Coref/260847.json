@@ -1,0 +1,1 @@
+{"top_spans": [[1, 1], [3, 3], [4, 4], [6, 14], [9, 9], [9, 14]], "predicted_antecedents": [-1, -1, 1, -1, -1, -1], "document": ["kings", "de'aaron", "fox", "kings", "de'aaron", "fox", "the", "kings", "orlando", "fox", "orlando", "florida", "sean", "cunningham", "kings", "back", "injury"], "clusters": [[[1, 1], [4, 4]]]}

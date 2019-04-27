@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [1, 1], [2, 5], [2, 8], [7, 8], [12, 18], [12, 19], [15, 15]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, -1], "document": ["foo", "fighters", "10-year", "-", "old", "boy", "perform", "metallica", "song", "at", "missouri", "concert", "dave", "grohl", "performed", "missouri", "concert", "concert", "collier", "metallica"], "clusters": []}

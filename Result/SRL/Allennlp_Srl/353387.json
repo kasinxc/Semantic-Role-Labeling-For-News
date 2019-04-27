@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "getting", "description": "[ARG1: sunny dry weekend] [V: getting] [ARG2: warmer] [ARGM-DIS: google]", "tags": ["B-ARG1", "I-ARG1", "I-ARG1", "B-V", "B-ARG2", "B-ARGM-DIS"]}], "words": ["sunny", "dry", "weekend", "getting", "warmer", "google"]}

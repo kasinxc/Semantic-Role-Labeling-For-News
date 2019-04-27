@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "feels", "description": "[ARG0: new mom] [V: feels] [ARG1: no love for her firstborn] [ARGM-DIS: amy]", "tags": ["B-ARG0", "I-ARG0", "B-V", "B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "B-ARGM-DIS"]}], "words": ["new", "mom", "feels", "no", "love", "for", "her", "firstborn", "amy"]}

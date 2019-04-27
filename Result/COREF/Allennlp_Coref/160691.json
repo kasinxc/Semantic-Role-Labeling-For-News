@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [3, 4], [6, 6], [7, 8], [10, 10], [12, 12], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 3], "document": ["nor'easter", "to", "bring", "heavy", "rain", "on", "saturday", "a", "nor'easter", "is", "set", "to", "bring", "heavy", "rain", "winds", "on", "saturday", "heavy", "rain"], "clusters": [[[6, 6], [17, 17]]]}

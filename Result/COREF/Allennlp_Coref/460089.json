@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 4], [6, 7], [8, 8], [12, 12], [14, 15], [15, 15]], "predicted_antecedents": [-1, -1, -1, -1, 3, -1, -1], "document": ["this", "town", "has", "been", "burning", "for", "50", "years", "we", "did", "n't", "think", "it", "was", "possible", "stockton", "new", "york"], "clusters": [[[0, 1], [12, 12]]]}

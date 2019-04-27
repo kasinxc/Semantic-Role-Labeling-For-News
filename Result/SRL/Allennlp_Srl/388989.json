@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "graded", "description": "[ARG1: sf - area hospitals] [V: graded] [ARGM-LOC: on safety san francisco area]", "tags": ["B-ARG1", "I-ARG1", "I-ARG1", "I-ARG1", "B-V", "B-ARGM-LOC", "I-ARGM-LOC", "I-ARGM-LOC", "I-ARGM-LOC", "I-ARGM-LOC"]}], "words": ["sf", "-", "area", "hospitals", "graded", "on", "safety", "san", "francisco", "area"]}

@@ -1,0 +1,1 @@
+{"top_spans": [[3, 3], [3, 4], [9, 12], [12, 12], [14, 14], [15, 15], [16, 16]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 2], "document": ["how", "do", "trick", "birthday", "candles", "work", "the", "kind", "that", "re", "-", "light", "themselves", "after", "you", "blow", "them", "out", "candles"], "clusters": [[[12, 12], [16, 16]]]}

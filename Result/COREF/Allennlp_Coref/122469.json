@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [2, 2], [2, 7], [4, 6], [4, 7], [8, 8], [10, 10], [12, 19]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 4, -1], "document": ["traded", "to", "dallas", "for", "first", "-", "round", "pick", "traded", "to", "dallas", "for", "first", "-", "round", "pick", "dallas", "cowboys", "amari", "cooper"], "clusters": [[[2, 2], [10, 10]]]}

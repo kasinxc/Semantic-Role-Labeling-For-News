@@ -243,8 +243,12 @@ def get_clusters(flags_read_from_correct_files):
     global coref_result_file_path
     if not os.path.exists(coref_result_file_path):
         os.makedirs(coref_result_file_path)
-        allen_coref_on_data.readFile(input_data_file_path)
-        allen_coref_on_data.applyAllenToDP()
+        if use_steplines_format == False:
+            input_data_points = allen_coref_on_data.readFileFromTrump(input_data_file_path)
+        else:
+            input_data_points = allen_coref_on_data.readFileFromSteplines(input_data_file_path)
+
+        allen_coref_on_data.applyAllenToDP(input_data_points)
 
     if flags_read_from_correct_files:
         clusters = read_clusters_from_correct_files(coref_result_file_path)

@@ -1,0 +1,1 @@
+{"top_spans": [[2, 3], [2, 7], [5, 7], [10, 10], [11, 11], [11, 14], [15, 15], [18, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 5, -1], "document": ["reader", "digest", "the", "machine", "at", "the", "coin", "factory", "just", "suddenly", "stopped", "working", "with", "no", "explanation", "it", "does", "n't", "make", "any", "cents"], "clusters": [[[2, 3], [15, 15]]]}

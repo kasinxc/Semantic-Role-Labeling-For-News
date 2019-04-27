@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 4], [6, 6], [6, 8], [7, 8], [12, 12], [16, 17], [16, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, 3, 4], "document": ["the", "real", "reason", "to", "go", "with", "droid", "new", "adult", "only", "app", "store", "does", "n't", "work", "for", "the", "iphone", "google", "the", "real", "apple"], "clusters": [[[6, 6], [16, 17], [16, 18]]]}

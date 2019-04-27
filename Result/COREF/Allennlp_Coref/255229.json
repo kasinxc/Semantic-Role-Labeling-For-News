@@ -1,0 +1,1 @@
+{"top_spans": [[0, 0], [4, 4], [6, 6], [8, 8], [8, 9], [11, 11], [13, 13]], "predicted_antecedents": [-1, -1, -1, 0, -1, 2, -1], "document": ["kiss", "but", "do", "n't", "tell", "should", "you", "tell", "your", "partner", "if", "you", "have", "hpv", "new", "yorkers", "human", "papillomavirus"], "clusters": [[[6, 6], [8, 8], [11, 11]]]}

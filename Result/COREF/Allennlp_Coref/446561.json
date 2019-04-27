@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [4, 10], [4, 11], [12, 13], [14, 14], [15, 15]], "predicted_antecedents": [-1, -1, -1, 2, -1, -1], "document": ["the", "wolf", "returns", "to", "the", "airwaves", "longtime", "on", "-", "air", "personality", "bob", "the", "wolf", "wohlfeld", "wolf"], "clusters": [[[0, 1], [12, 13]]]}

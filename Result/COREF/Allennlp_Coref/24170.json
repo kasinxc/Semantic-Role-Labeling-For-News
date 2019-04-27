@@ -1,0 +1,1 @@
+{"top_spans": [[0, 4], [2, 3], [5, 5], [7, 7], [8, 8], [11, 12], [14, 14], [20, 20], [22, 22]], "predicted_antecedents": [-1, -1, -1, -1, -1, -1, -1, 4, -1], "document": ["25", "of", "banksy", "cleverest", "works", "he", "been", "making", "art", "for", "over", "20", "years", "yet", "we", "still", "do", "n't", "know", "who", "he", "is", "banksy"], "clusters": [[[5, 5], [20, 20]]]}

@@ -17,6 +17,7 @@ def read_data_entries_from_file(file_path):
 
     # list of (the indices of skipped data and its line length)
     # the indices of data is 0-based
+    # Trump data has different data format
     skip_data_indice = dict()
     # list of data entries
     input_data_entries = list()
@@ -29,14 +30,41 @@ def read_data_entries_from_file(file_path):
             data_entry = DataEntry(tmp[0], tmp[1], tmp[2])
             input_data_entries.append(data_entry)
 
-            if len(line) > line_length_threshold:
-                skip_data_indice[data_index] = len(line)
+            if len(tmp[0]) > line_length_threshold:
+                skip_data_indice[data_index] = len(tmp[0])
 
     print("total data entries: " + str(len(input_data_entries)))
     print("skip data entries with line size > " + str(line_length_threshold))
     print("skipped data (data index, data length):")
     print(skip_data_indice)
     return input_data_entries, skip_data_indice
+
+def read_data_entries_from_folder(folder_path):
+    print("read data entries from folder at path: " + folder_path)
+
+    skip_article_ids = dict()
+    input_data_entries = list()
+
+    for root, dirs, files in os.walk(folder_path, topdown=False):
+        for name in files:
+            if not '.' in name:
+                file_path = os.path.join(root, name)
+                with open(file_path, 'r') as f:
+                    lines = f.readlines()
+                    for data_index in range(len(lines)):
+                        line = lines[data_index]
+                        tmp = line.strip('\n').split('\t')
+                        data_entry = DataEntry(tmp[2], tmp[0], 0)
+                        input_data_entries.append(data_entry)
+                        
+                        if len(tmp[2]) > line_length_threshold:
+                            skip_article_ids[tmp[0]] = len(tmp[2])
+
+    print("total data entries: " + str(len(input_data_entries)))
+    print("skip data entries with line size > " + str(line_length_threshold))
+    print("skipped data (article ids, data length):")
+    print(skip_article_ids)
+    return input_data_entries, skip_article_ids
 
 
 class RoleInfo:
@@ -207,13 +235,15 @@ def applyAllenToDE(input_data_entries, skip_data_indice, srl_result_folder_path)
     file_count = 0
     files = list()
     for data_index in range(len(input_data_entries)):
-        if data_index in skip_data_indice:
+        de = input_data_entries[data_index]
+        if de.article_ids in skip_data_indice:
             continue
-        print("Predicting index = " + str(data_index))
+        if data_index % 100 == 0:
+            print("Predicting index = " + str(data_index))
         srl = predictor.predict(sentence=input_data_entries[data_index].title_desc)
         
         # save to file, 0-base
-        with open(srl_result_folder_path + str(data_index) + ".json", 'w') as f:
+        with open(srl_result_folder_path + str(de.article_ids) + ".json", 'w') as f:
             json.dump(srl, f)
 
         srls[data_index] = srl
@@ -229,14 +259,21 @@ def applyAllenToDE(input_data_entries, skip_data_indice, srl_result_folder_path)
 def get_relations_api(max_file_count=30000):
     global max_file_number
     max_file_number = max_file_count
-    input_data_entries, skip_data_indice = read_data_entries_from_file(input_data_file_path)
+    if use_steplines_format == False:
+        input_data_entries, skip_data_indice = read_data_entries_from_file(input_data_file_path)
+    else:
+        input_data_entries, skip_data_indice = read_data_entries_from_folder(input_data_file_path)
     srls = applyAllenToDE(input_data_entries, skip_data_indice, srl_result_folder_path)
     relations = get_relation_tuples(srls)
     return relations
 
 
 def main():
-    input_data_entries, skip_data_indice = read_data_entries_from_file(input_data_file_path)
+    if use_steplines_format == False:
+        input_data_entries, skip_data_indice = read_data_entries_from_file(input_data_file_path)
+    else:
+        input_data_entries, skip_data_indice = read_data_entries_from_folder(input_data_file_path)
+
     srls = applyAllenToDE(input_data_entries, skip_data_indice, srl_result_folder_path)
     relations = get_relation_tuples(srls)
     print(UseStyle("Relations extraction finished", fore = 'green'))

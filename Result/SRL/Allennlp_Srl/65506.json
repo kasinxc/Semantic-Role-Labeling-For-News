@@ -1,0 +1,1 @@
+{"verbs": [{"verb": "reflects", "description": "[ARG2: art] [V: reflects] [ARG1: life] [ARGM-MNR: too closely] pappy brylee", "tags": ["B-ARG2", "B-V", "B-ARG1", "B-ARGM-MNR", "I-ARGM-MNR", "O", "O"]}], "words": ["art", "reflects", "life", "too", "closely", "pappy", "brylee"]}

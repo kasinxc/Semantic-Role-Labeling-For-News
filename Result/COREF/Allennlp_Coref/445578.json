@@ -1,0 +1,1 @@
+{"top_spans": [[0, 1], [3, 3], [4, 7], [4, 10], [9, 10], [12, 12], [16, 19], [17, 17]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1, -1], "document": ["the", "trick", "to", "cooking", "a", "better", "hot", "dog", "in", "the", "microwave", "try", "it", "you", "'ll", "see", "microwave", "cooking", "dog", "leite"], "clusters": [[[0, 1], [12, 12]]]}

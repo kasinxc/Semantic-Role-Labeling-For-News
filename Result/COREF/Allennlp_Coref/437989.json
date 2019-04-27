@@ -1,0 +1,1 @@
+{"top_spans": [[0, 3], [5, 5], [8, 9], [12, 12], [12, 13], [14, 14], [15, 15], [17, 18]], "predicted_antecedents": [-1, -1, -1, -1, -1, 4, -1, -1], "document": ["the", "creepy", "-", "crawly", "reason", "you", "should", "take", "a", "close", "look", "at", "your", "paprika", "it", "alive", "green", "u", "s", "cayenne", "nausea"], "clusters": [[[0, 3], [14, 14]]]}
