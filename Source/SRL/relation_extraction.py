@@ -191,7 +191,7 @@ def get_relation_tuples(srls):
 
 
 def load_srls_from_file(folder_path):
-    print("Detected SRLs in folder: " + folder_path)
+    print(UseStyle("Detected SRLs in folder: " + folder_path, fore='green'))
     print("Loading from files ...")
     srls = dict()
     file_count = 0

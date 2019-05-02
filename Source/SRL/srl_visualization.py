@@ -181,14 +181,28 @@ def show_all_arg0(relations):
             if role.label == 'ARG0':
                 arg0.add(role.words)
     print(arg0)
+    return arg0
 
 
 def main(configurations):
     load_configurations(configurations)
     relations = get_relations_api(max_file_number)
 
-    show_all_arg0(relations)
-    
+    # add arg0s by containing role of interests
+    arg0s = show_all_arg0(relations)
+    lower_case_role_of_interest = get_lower(role_of_interest)
+    add_arg0s = list()
+    for arg0 in arg0s:
+        for role in lower_case_role_of_interest:
+            if role in arg0.lower():
+                add_arg0s.append(arg0)
+                break
+
+    print('Add roles: '),
+    print(add_arg0s)
+    role_of_interest.extend(add_arg0s)
+
+
     print(UseStyle('Loaded ' + str(len(relations)) +' relations from file', fore='green'))
     relations = remove_invalid_relations(relations)
     tree_graph = tree(relations)
